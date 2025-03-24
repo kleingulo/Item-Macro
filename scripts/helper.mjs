@@ -44,7 +44,7 @@ export class helper {
 
     Item.prototype.executeMacro = async function (scope= {}, ...args) {
       if (!this.hasMacro()) return;
-
+      
       return this.getMacro().execute(scope, ...args);
     }
   }

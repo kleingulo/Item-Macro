@@ -15,6 +15,7 @@ import {DungeonCrawlClassics} from "./handlers/DungeonCrawlClassics.mjs";
 import {Dragonbane} from "./handlers/Dragonbane.mjs";
 import {WorldOfDarkness} from "./handlers/WorldOfDarkness.mjs";
 import {Symbaroum} from "./handlers/Symbaroum.mjs";
+import {ProjectFU} from "./handlers/ProjectFU.mjs";
 
 export class SystemManager {
   /**
@@ -42,6 +43,7 @@ export class SystemManager {
     Worldbuilding,
     WorldOfDarkness,
     WorldsWithoutNumber,
+    ProjectFU,
   ];
 
   /**
