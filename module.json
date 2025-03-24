@@ -1,13 +1,10 @@
 {
   "id": "itemacro",
   "title": "Item Macro",
-  "version": "<<autoreplaced>>",
-  "url": "<<autoreplaced>>",
-  "manifest": "<<autoreplaced>>",
-  "download": "<<autoreplaced>>",
-  "readme": "<<autoreplaced>>",
-  "changelog": "<<autoreplaced>>",
-  "bugs": "<<autoreplaced>>",
+  "version": "2.2.0",
+  "url": "https://github.com/kleingulo/Item-Macro",
+  "manifest": "https://github.com/kleingulo/Item-Macro/releases/download/Latest/module.json",
+  "download": "https://github.com/kleingulo/Item-Macro/archive/refs/tags/v2.2.0.zip",
   "description": "A module that allows macros to be stored in items and executed in various places.",
   "authors": [
     {
